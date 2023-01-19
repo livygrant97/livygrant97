@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 currently in the final year of my PhD at the University of Essex + Queen Mary University of London<br>🧬 bioinformatician studying epigenetics<br>💻 current projects (autosomal sex differences, inter individual DNA methylation + environmental epigenetics)<br>💡 currently learning python + rcpp
+🎓 post doctoral research associate at kings college london <br>🧬 bioinformatician studying epigenetics<br>💻 current projects (epigenetics and genetics of motor neurone disease)<br>💡 phd in epigenetics submitted, currently awaiting viva ‼️ currently learning python + rcpp
 
 
 ## 🌐 Socials:
