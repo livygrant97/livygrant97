@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 post doctoral research associate at kings college london <br>🧬 bioinformatician studying epigenetics<br>💻 current projects (epigenetics and genetics of motor neurone disease)<br>💡 phd in epigenetics submitted, currently awaiting viva ‼️ currently learning python + rcpp
+🎓 post doctoral research associate at kings college london <br>🧬 bioinformatician studying epigenetics<br>💻 current projects (epigenetics and genetics of motor neurone disease)<br>💡 phd in epigenetics submitted, currently awaiting viva  <br>‼️ currently learning python + rcpp
 
 
 ## 🌐 Socials:
